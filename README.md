@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @toddham
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in product design, prototyping and SwiftUI
+- 🌱 I’m currently building Swift Package Exporter for Figma: https://figmatoswift.com
 - 📫 You can reach at toddham@gmail.com
